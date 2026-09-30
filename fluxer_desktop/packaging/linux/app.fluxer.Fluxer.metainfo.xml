@@ -66,10 +66,12 @@
     </content_rating>
     <requires>
         <internet>always</internet>
+        <display_length compare="ge">360</display_length>
     </requires>
     <supports>
         <control>keyboard</control>
         <control>pointing</control>
+        <control>touch</control>
     </supports>
     <releases>
         <release version="2026.920.144558" date="2026-09-20">

@@ -10,5 +10,5 @@ export const PASSKEY_RP_IDS = ['fluxer.app', 'fluxer.com'] as const;
 export const STATIC_CDN_URL = 'https://fluxerstatic.com';
 export const DEFAULT_WINDOW_WIDTH = 1280;
 export const DEFAULT_WINDOW_HEIGHT = 800;
-export const MIN_WINDOW_WIDTH = 800;
+export const MIN_WINDOW_WIDTH = 360;
 export const MIN_WINDOW_HEIGHT = 600;
